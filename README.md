@@ -6,13 +6,13 @@ Tujuan utamanya adalah untuk menciptakan model yang akurat dan efisien yang dapa
 
 ## Daftar Isi
 
-  - [Latar Belakang]
-  - [Dataset]
-  - [Alur Kerja Proyek]
-  - [Arsitektur Model]
-  - [Hasil]
-  - [Instalasi dan Penggunaan]
-  - [Konversi Model]
+  - Latar Belakang
+  - Dataset
+  - Alur Kerja Proyek
+  - Arsitektur Model
+  - Hasil
+  - Instalasi dan Penggunaan
+  - Konversi Model
 
 ## Latar Belakang
 
